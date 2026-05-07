@@ -75,8 +75,7 @@ export const App = () => {
       description: "Switch label to make the QR background transparent.",
     }),
     transparentDescription: intl.formatMessage({
-      defaultMessage:
-        "Skip the background — the design behind shows through.",
+      defaultMessage: "Skip the background — the design behind shows through.",
       description: "Helper text for the transparent background switch.",
     }),
     quietZoneLabel: intl.formatMessage({
